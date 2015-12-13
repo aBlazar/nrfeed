@@ -26,4 +26,16 @@ The following modification are made to feed returned by the API
    - Podcast image: replace generic npr image with show specific image
 
 
+## Screenshots
+
+Firefox
+![Firefox](/raw/master/img/firefox.png)
+
+Pocket Cast (Android)
+![Pocket Cast](/raw/master/img/pocketcast.png)
+
 ## Installation
+
+### Requirements
+  - python-flask
+  - python-flask-cache
